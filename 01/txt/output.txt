@@ -1,0 +1,2 @@
+Avocado information: ${textIn}
+ Create on ${Data.now()}
